@@ -2,7 +2,6 @@
 
 ## By Nimay Desai
 
-## ACCESS THE WEBISTE NOW (https://peeldb.me)
 
 The presentation for this project can be downloaded at [this link](SchoolDB.pptx)
 
